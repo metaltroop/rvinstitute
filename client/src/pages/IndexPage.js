@@ -19,7 +19,7 @@ export default function IndexPage() {
         <img src={logo} className="w-12" alt="" />
           <Link
             to="/"
-            className="text-2xl text-gray-300 hover:text-[#ffffff] transition-all hover:delay-100 font-bold"
+            className="text-2xl text-gray-300 hover:text-[#ffffff] transition-all hover:delay-80 font-bold"
           >
             RV Institute
           </Link>
